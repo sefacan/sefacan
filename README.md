@@ -47,9 +47,9 @@
 <a href='https://twitter.com/ssefaccan/'><img src='https://img.shields.io/badge/SEFACAN-FOLLOW%20ON%20TWITTER-BLUE?style=for-the-badge&logo=twitter' height='32px'/></a>
 </p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=sefacan&amp;show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=sefacan&amp;show_icons=true"
+<p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=sefacan&show_icons=true&theme=algolia&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=sefacan&show_icons=true&theme=algolia&count_private=true"
     alt="Sefa Can's GitHub Stats"
-    data-canonical-src="https://github-readme-stats.vercel.app/api?username=sefacan&amp;show_icons=true"
+    data-canonical-src="https://github-readme-stats.vercel.app/api?username=sefacan&show_icons=true&theme=algolia&count_private=true"
     style="max-width:100%;"></a></p>
     
     
